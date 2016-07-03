@@ -22,9 +22,11 @@ A [bug](http://stackoverflow.com/questions/35283073/scipy-io-loadmat-doesnt-work
 
 ### BibTeX
 
-```@article{balog2016mondriankernel,
+```
+@article{balog2016mondriankernel,
   title={The Mondrian Kernel},
   author={Balog, Matej and Lakshminarayanan, Balaji and Ghahramani, Zoubin and Roy, Daniel M and Teh, Yee Whye},
   journal={Proceedings of the Thirty-Second Conference on Uncertainty in Artificial Intelligence (UAI-16), Jersey City},
   year={2016}
-}```
+}
+```
