@@ -6,7 +6,8 @@ Matej Balog, Balaji Lakshminarayanan, Zoubin Ghahramani, Daniel M. Roy, Yee Whye
 
 [[PDF](http://www.auai.org/uai2016/proceedings/papers/236.pdf)] 
 [[supp](http://www.auai.org/uai2016/proceedings/supp/236_supp.pdf)] 
-[[arXiv](https://arxiv.org/abs/1606.05241)]
+[[arXiv](https://arxiv.org/abs/1606.05241)] 
+[[poster](http://matejbalog.eu/research/mondrian_kernel_poster.pdf)]
 
 The scripts provided here implement experiments from this paper. The scripts `experiment_1_laplace_kernel_approximation`, `experiment_2_fast_kernel_width_learning` and `experiment_3_mondrian_kernel_vs_forest` are intended to be directly runnable.
 
