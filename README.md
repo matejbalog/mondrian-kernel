@@ -8,6 +8,7 @@ Matej Balog, Balaji Lakshminarayanan, Zoubin Ghahramani, Daniel M. Roy, Yee Whye
 [[supp](http://www.auai.org/uai2016/proceedings/supp/236_supp.pdf)] 
 [[arXiv](https://arxiv.org/abs/1606.05241)] 
 [[poster](http://matejbalog.eu/research/mondrian_kernel_poster.pdf)]
+[[slides](http://matejbalog.eu/research/mondrian_kernel_slides.pdf)]
 
 The scripts provided here implement experiments from this paper. The scripts `experiment_1_laplace_kernel_approximation`, `experiment_2_fast_kernel_width_learning` and `experiment_3_mondrian_kernel_vs_forest` are intended to be directly runnable.
 
@@ -24,10 +25,12 @@ A [bug](http://stackoverflow.com/questions/35283073/scipy-io-loadmat-doesnt-work
 ### BibTeX
 
 ```
-@article{balog2016mondriankernel,
-  title={The Mondrian Kernel},
-  author={Balog, Matej and Lakshminarayanan, Balaji and Ghahramani, Zoubin and Roy, Daniel M and Teh, Yee Whye},
-  journal={Proceedings of the Thirty-Second Conference on Uncertainty in Artificial Intelligence (UAI-16), Jersey City},
-  year={2016}
+@inproceedings{balog2016mondriankernel,
+  author = {Matej Balog and Balaji Lakshminarayanan and Zoubin Ghahramani and Daniel M.~Roy and Yee Whye Teh},
+  title={The {M}ondrian Kernel},
+  booktitle = {32nd Conference on Uncertainty in Artificial Intelligence (UAI)},
+  year = {2016},
+  month = {June},
+  url = {http://www.auai.org/uai2016/proceedings/papers/236.pdf}
 }
 ```
